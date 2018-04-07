@@ -1,0 +1,7 @@
+#Sat Mar 04 22:09:41 BDT 2017
+base.0=F\:\\CodersWise\\Projects\\Android Apps\\lba\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\CodersWise\\Projects\\Android Apps\\lba\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+base.1=F\:\\CodersWise\\Projects\\Android Apps\\lba\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+file.0=F\:\\CodersWise\\Projects\\Android Apps\\lba\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes2.dex

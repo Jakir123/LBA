@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\CodersWise\\Projects\\Android Apps\\lba\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "F:\\CodersWise\\Projects\\Android Apps\\lba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\CodersWise\\Projects\\Android Apps\\lba\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "F:\\CodersWise\\Projects\\Android Apps\\lba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\Working Space\\Mobile Apps\\Android\\New folder\\lba\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "F:\\Working Space\\Mobile Apps\\Android\\New folder\\lba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\Working Space\\Mobile Apps\\Android\\New folder\\lba\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "F:\\Working Space\\Mobile Apps\\Android\\New folder\\lba\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

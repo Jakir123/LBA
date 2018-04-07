@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LBA</string>
+    <string name="title_activity_alarm_list">AlarmListActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="header_set_alarm">Create New Alarm</string>
+    <string name="hint_latitude">Latitude</string>
+    <string name="hint_longitude">Longitude</string>
+    <string name="hint_alarm_title">Alarm Title</string>
+    <string name="hint_description">Alarm Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+</resources>

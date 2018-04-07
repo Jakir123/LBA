@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Working Space\\Mobile Apps\\Android\\New folder\\lba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png",
+        "source": "F:\\Working Space\\Mobile Apps\\Android\\New folder\\lba\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png"
+    },
+    {
+        "merged": "F:\\Working Space\\Mobile Apps\\Android\\New folder\\lba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder.png",
+        "source": "F:\\Working Space\\Mobile Apps\\Android\\New folder\\lba\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable-nodpi-v4\\cast_album_art_placeholder.png"
+    },
+    {
+        "merged": "F:\\CodersWise\\Projects\\Android Apps\\lba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder.png",
+        "source": "F:\\CodersWise\\Projects\\Android Apps\\lba\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable-nodpi-v4\\cast_album_art_placeholder.png"
+    },
+    {
+        "merged": "F:\\CodersWise\\Projects\\Android Apps\\lba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png",
+        "source": "F:\\CodersWise\\Projects\\Android Apps\\lba\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png"
+    }
+]
